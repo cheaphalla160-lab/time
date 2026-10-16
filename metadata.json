@@ -1,0 +1,8 @@
+{
+  "name": "Time Master: English Clock & Time Game",
+  "description": "Interactive middle school English learning game for mastering time expressions, o'clock, past, to, quarter, and half past with relaxing BGM and clear speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
